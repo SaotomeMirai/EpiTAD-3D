@@ -1,8 +1,6 @@
 # EpiTAD-3D
-*v0.1.0*
+*v1.0*
 EpiTAD-3D is a tool to reconstruct and visualize 3D chromation structure from Hi-C data.
-
-[TOC]
 
 ## Usage
 Here introduce the workflow for plotting single locus in chromatin.
